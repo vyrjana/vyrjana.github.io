@@ -239,6 +239,15 @@ defaults:
       author_profile: true
       share: true
       comment: false
+  # _software
+  - scope:
+      path: ""
+      type: software
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: false
   # _talks
   - scope:
       path: ""
