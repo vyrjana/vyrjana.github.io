@@ -2,10 +2,10 @@
 title: "pyimpspec"
 collection: software
 permalink: /software/pyimpspec
-excerpt: "Python library for processing, analyzing, and visualizing impedance spectra"
+excerpt: "Python API for processing, analyzing, and visualizing impedance spectra"
 ---
 
-`pyimpspec` is a Python library that provides an application programming interface (API) for working with impedance spectra:
+An open-source Python package that provides an application programming interface (API) for working with impedance spectra:
 
 - load experimental data from various file formats
 - process spectra (e.g., mask outliers and make corrections by subtracting a baseline spectrum)
@@ -13,6 +13,8 @@ excerpt: "Python library for processing, analyzing, and visualizing impedance sp
 - analyze spectra using equivalent circuits and by calculating distributions of relaxation times
 - simulate the impedance response of circuits
 - visualize spectra and analysis results
+
+Those who would prefer to use a graphical user interface (GUI) may wish to use [DearEIS](https://vyrjana.github.io/software/deareis), which is based upon pyimpspec, instead.
 
 **Links**
 
