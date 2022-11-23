@@ -2,8 +2,10 @@
 title: "DearEIS"
 collection: software
 permalink: /software/deareis
-excerpt: "GUI program and Python API for processing, analyzing, and visualizing impedance spectra"
+excerpt: "GUI program and Python API for processing, analyzing, and visualizing impedance spectra<br><img src='/images/deareis.png'>"
 ---
+
+![Screenshot of DearEIS' fitting tab](images/deareis.png)
 
 An open-source Python package that provides both a graphical user interface (GUI) and an application programming interface (API) for for working with impedance spectra:
 
