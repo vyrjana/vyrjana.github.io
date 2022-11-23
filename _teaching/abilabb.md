@@ -8,7 +8,9 @@ date: 2022-08-01
 location: "Turku, Finland"
 ---
 
-Week-long course where high school students could familiarize themselves with the different subjects (e.g., chemistry and physics) available at Åbo Akademi University. Supervised the portion of the course regarding analytical chemistry. The material covered water sample analysis using different techniques:
+Week-long course where high school students could familiarize themselves with the different subjects available at Åbo Akademi University (e.g., chemistry and physics).
+
+Supervised the portion of the course regarding analytical chemistry. The material covered water sample analysis using different techniques:
 
 - electrochemistry
 	- pH

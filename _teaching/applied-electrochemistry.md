@@ -8,7 +8,9 @@ date: 2022-10-01
 location: "Turku, Finland"
 ---
 
-Supervision of a lab exercise regarding the basics of electrochemical impedance spectroscopy (EIS). The exercise covers the following topics:
+Supervision of a lab exercise regarding the electrochemical impedance spectroscopy (EIS).
+
+The exercise covers the following topics:
 
 - basics of impedance spectroscopy
 	- excitation and response signals
