@@ -5,7 +5,7 @@ permalink: /software/pyimpspec
 excerpt: "Python API for processing, analyzing, and visualizing impedance spectra<br><img src='/images/pyimpspec.svg'>"
 ---
 
-![Example of exploratory Kramers-Kronig testing results](images/pyimpspec.svg)
+![Example of exploratory Kramers-Kronig testing results](/images/pyimpspec.svg)
 
 An open-source Python package that provides an application programming interface (API) for working with impedance spectra:
 
