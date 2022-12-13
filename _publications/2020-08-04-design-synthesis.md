@@ -6,5 +6,5 @@ excerpt: 'Carboxylate sensing solid-contact ion-selective electrodes (ISEs) were
 date: 2020-08-04
 venue: 'Beilstein Journal of Organic Chemistry'
 paperurl: 'https://doi.org/10.3762/bjoc.16.157'
-citation: 'Beilstein J. Org. Chem. 2020, 16, 1901-1914'
+citation: 'Rüütel, A. et al., (2020). &quot;Design, synthesis and application of carbazole macrocycles in anion sensors&quot;. <i>Beilstein J. Org. Chem.</i>, 16, 1901-1914'
 ---

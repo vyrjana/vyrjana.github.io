@@ -22,4 +22,5 @@ DearEIS is based upon [pyimpspec](https://vyrjana.github.io/software/pyimpspec) 
 
 - [Home page](https://vyrjana.github.io/DearEIS/)
 - [GitHub repository](https://github.com/vyrjana/DearEIS)
+- [Journal of Open Source Software article](https://doi.org/10.21105/joss.04808)
 
