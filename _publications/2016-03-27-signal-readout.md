@@ -6,5 +6,5 @@ excerpt: 'A novel approach to signal transduction concerning solid-contact ion-s
 date: 2016-03-27
 venue: 'Analytical Chemistry'
 paperurl: 'https://doi.org/10.1021/acs.analchem.5b04800'
-citation: 'Vanamo, U. et al., (2016). &quot;New Signal Readout Principle for Solid-Contact Ion-Selective Electrodes&quot;. <i>Anal. Chem.</i>, 88, 8, 4369–4374'
+citation: 'Vanamo, U. et al., &quot;New Signal Readout Principle for Solid-Contact Ion-Selective Electrodes&quot;, <i>Anal. Chem.</i>, 2016, 88, 8, 4369–4374'
 ---
