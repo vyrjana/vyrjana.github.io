@@ -4,7 +4,7 @@ collection: teaching
 type: "MSc. course"
 permalink: /teaching/aec
 venue: "Åbo Akademi University, Faculty of Science and Engineering"
-date: 2022-10-01
+date: 2024-10-08
 location: "Turku, Finland"
 ---
 
